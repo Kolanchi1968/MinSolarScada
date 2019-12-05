@@ -1,0 +1,2 @@
+# MinSolarScada
+ScadaFiles
